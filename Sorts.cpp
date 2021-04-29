@@ -1,7 +1,3 @@
-/*Buturugeanu Iulian-Alexandru
-Grupa 1332a
-Sortare siruri de caractere
-*/
 #include<iostream>
 #include<cstring>
 using namespace std;
